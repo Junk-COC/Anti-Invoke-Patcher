@@ -36,7 +36,6 @@ namespace Anti_Invoke_Detection
                     Console.Write($"[+] Loaded: {args[0]}\n");
                     foreach (TypeDef type in md.GetTypes())
                     {
-                        if (!type.IsGlobalModuleType) continue;
                         foreach (MethodDef method in type.Methods)
                         {
                             try

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anti Invoke Patcher", "Anti Invoke Patcher\Anti Invoke Patcher.csproj", "{C204A219-3001-417E-9EAB-EA20AA5DE600}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C204A219-3001-417E-9EAB-EA20AA5DE600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C204A219-3001-417E-9EAB-EA20AA5DE600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C204A219-3001-417E-9EAB-EA20AA5DE600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C204A219-3001-417E-9EAB-EA20AA5DE600}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A63A777A-9817-486B-A2AA-55A61E405B9A}
+	EndGlobalSection
+EndGlobal
